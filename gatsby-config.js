@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'WXcheck website',
+    title: 'WXcheck.org',
     description:
       'Website for WXcheck',
   },
