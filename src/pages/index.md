@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
 title: WXcheck.org
-image: /img/home-jumbotron.jpg
+image: /img/world.jpg
 heading: Compare your weather forecasts!
-subheading: Support sustainable farming while enjoying a cup
+subheading: WXCheck makes it easy to compare the forecast services in your area!
 mainpitch:
   title: Why Kaldi
   description: >
