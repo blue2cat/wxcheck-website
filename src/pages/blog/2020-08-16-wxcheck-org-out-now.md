@@ -8,4 +8,4 @@ featuredimage: /img/snowflake-solid.svg
 tags:
   - wxcheck.org
 ---
-WXcheck is now out at WXcheck.org
+WXcheck is now out at WXcheck.org Please bear with us as we continue to update and develop this site. 
